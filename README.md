@@ -1,4 +1,4 @@
-# BillingIQ: AI-Powered Healthcare Coverage Assistant
+# BillingIQ: AI-Powered Healthcare Billing Assistant
 
 A production-ready **Retrieval-Augmented Generation (RAG)** chatbot for healthcare billing and coverage inquiries. Built with modern AI/ML stack: Streamlit UI, LangChain orchestration, ChromaDB vector storage, and Groq LLM inference.
 
