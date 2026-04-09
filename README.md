@@ -408,20 +408,6 @@ BillingIQ: "I can route this to support. What name should support use?"
 
 ---
 
-## Public Sharing Checklist
-
-Before pushing to GitHub:
-
-- [ ] **No Secrets:** `.env` excluded by `.gitignore` ✓
-- [ ] **Generic Name:** Removed all client-specific branding ✓
-- [ ] **No Proprietary Data:** KB is public/dummy data ✓
-- [ ] **Fresh Vectors:** Rebuild locally from your KB (`chroma_index/` is auto-generated) ✓
-- [ ] **No Internal URLs:** Removed all company URLs/references ✓
-- [ ] **Dependencies Listed:** All imports in `requirements.txt` ✓
-- [ ] **Setup Guide:** This README provides complete instructions ✓
-
----
-
 ## Troubleshooting
 
 | Issue | Solution |
